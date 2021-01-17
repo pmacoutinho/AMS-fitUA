@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">fitUA</string>
+    <string name="placeholder">placeholder</string>
+
+    <!-- LOGIN -->
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="entrar">Entrar</string>
+    <string name="credenciais_ua">Entrar com email da UA</string>
+    <string name="credenciais_externas">Entrar com serviço externo</string>
+    <string name="entrar_facebook">Entrar com o Facebook</string>
+    <string name="entrar_google">Entrar com a Google</string>
+    <string name="entrar_twitter">Entrar com o Twitter</string>
+
+    <!-- MENU PRINCIPAL -->
+    <string name="menu_principal">Menu Principal</string>
+    <string name="lista_treinos">Planos de Treino</string>
+    <string name="falar_pt">Falar com PT</string>
+    <string name="registo_treinos">Estatisticas</string>
+    <string name="treinar_casa">Treino em Casa</string>
+    <string name="treinar_ginasio">Treino no Ginásio</string>
+    <string name="produtos_treino">Produtos</string>
+    <string name="saude">Saúde</string>
+    <string name="nutricao">Nutrição</string>
+    <string name="contactos">Contactos</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- PLANOS DE TREINO -->
+    <string name="planos_treino">Planos de Treino</string>
+    <string name="descricao_treino">Descrição de Treino</string>
+    <string name="fazer_casa">Pode fazer em casa:</string>
+    <string name="area_treino">Area de foco:</string>
+    <string name="dificuldade_treino">Dificuldade:</string>
+    <string name="exercicios">Exercicios:</string>
+    <string name="adicionar_treino_casa">Adicionar treino em casa</string>
+    <string name="adicionar_treino_ginasio">Adicionar treino no ginásio</string>
+
+    <!-- ESTATISTICAS -->
+    <string name="estatisticas">Estatisticas</string>
+    <string name="tipo_treino">Tipo de Treino</string>
+    <string name="guardar_treinos">Guardar novos dados:</string>
+    <string name="dados_guardados">Dados Guardados</string>
+    <string name="indica_estatisticas">Indique as Estatisticas</string>
+    <string name="titulo">Título</string>
+    <string name="calorias">Calorias Queimadas</string>
+    <string name="kcal">Kcal</string>
+    <string name="tempo_treino">Tempo de Treino</string>
+    <string name="min">min</string>
+    <string name="peso_total">Peso Total Utilizado</string>
+    <string name="kg">Kg</string>
+    <string name="modo_edicao">Modo de Edição</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="eliminar">Eliminar</string>
+
+    <!-- TREINO EM CASA -->
+    <string name="treino_casa">Treino em Casa</string>
+    <string name="iniciar_treino">Iniciar Treino (Zoom)</string>
+    <string name="remover_treino">Remover Treino</string>
+
+    <!-- TREINO NO GINASIO -->
+    <string name="treino_ginasio">Treino no Ginásio</string>
+
+    <!-- PRODUTOS -->
+    <string name="produtos">Produtos</string>
+    <string name="lista_parceiros">Lista de Parceiros</string>
+    <string name="prozis">Prozis</string>
+    <string name="my_protein">My Protein</string>
+    <string name="descricao_prod">Proteinas em pó, shakers e outros acessórios...</string>
+    <string name="descricao_prod_2">Utiliza o código FITUA10 no checkout para um desconto de 10% em todos os produtos da loja!</string>
+
+    <!-- SAUDE -->
+    <string name="ultimos_artigos">Ultimos Artigos</string>
+    <string name="titulo_artigo">Oito erros comuns no ginásio que podem prejudicar a saúde</string>
+    <string name="website_bancosaude">bancodasaude.com</string>
+    <string name="abrir">Abrir</string>
+
+    <!-- NUTRICAO -->
+    <string name="marcar_consulta">Marcar Consulta</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="hora_0900">9h-9h30</string>
+    <string name="hora_0930">9h30–10h</string>
+    <string name="hora_1000">10h-10h30</string>
+    <string name="hora_1030">10h30–11h</string>
+    <string name="hora_1100">11h-11h30</string>
+    <string name="hora_1400">14h-14h30</string>
+    <string name="hora_1430">14h30–15h</string>
+    <string name="hora_1500">15h-15h30</string>
+    <string name="hora_1530">15h30–16h</string>
+
+    <!-- CONTACTOS -->
+    <string name="telefone">Telefone</string>
+    <string name="tele_ua">UA: 234–370–200</string>
+    <string name="tele_pavilhao">Pavilhão: 234–370–814</string>
+    <string name="email">Email</string>
+    <string name="email_ua">UA: geral@ua.pt</string>
+    <string name="email_pavilhao">Pavilhão: sports@sas.ua.pt</string>
+    <string name="website">Website</string>
+    <string name="website_ua">UA: ua.pt</string>
+    <string name="website_fitua">fitUA: fitUA.pt</string>
+    <string name="title_activity_test">test</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- PT MENU PRINCIPAL -->
+    <string name="lista_clientes">Lista de Clientes</string>
+    <string name="falar_cliente">Falar com Cliente</string>
+
+    <!-- my_row_estatisticas -->
+    <string name="my_row_cardio">Cardio</string>
+    <string name="my_row_titulo">Titulo-Titulo</string>
+    <string name="my_row_calorias_peso">Calorias/Peso: </string>
+    <string name="my_row_tempo">Tempo: </string>
+
+    <!-- my_row_planos_treinos -->
+    <string name="my_row_casa">Casa:</string>
+    <string name="my_row_dificuldade">Dificuldade:</string>
+    <string name="my_row_area">Área:</string>
+    <string name="my_row_sim">Sim</string>
+
+</resources>

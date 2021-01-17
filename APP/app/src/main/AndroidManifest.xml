@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity android:name=".PTMenuPrincipalActivity"></activity>
+        <activity android:name=".TreinoNoGinasioActivity_2" />
+        <activity android:name=".TreinoEmCasaActivity_2" />
+        <activity android:name=".TreinoNoGinasioActivity" />
+        <activity android:name=".TreinoEmCasaActivity" />
+        <activity android:name=".PlanosTreinoActivity_2" />
+        <activity android:name=".EstatisticasEditarActivity" />
+        <activity android:name=".EstatisticasDadosActivity" />
+        <activity android:name=".ProdutosActivity" />
+        <activity android:name=".EstatisticasPesosActivity" />
+        <activity android:name=".EstatisticasCardioActivity" />
+        <activity android:name=".EstatisticasActivity" />
+        <activity android:name=".SaudeActivity" />
+        <activity android:name=".PlanosTreinoActivity" />
+        <activity android:name=".MenuPrincipalActivity" />
+        <activity android:name=".NutricaoActivity_2" />
+        <activity android:name=".NutricaoActivity" />
+        <activity android:name=".ContactosActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
