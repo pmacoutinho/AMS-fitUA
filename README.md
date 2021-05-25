@@ -7,3 +7,6 @@
  
  Tests were done using Android Espresso
  (How to run them -> https://developer.android.com/studio/test/espresso-test-recorder#run-an-espresso-test-locally)
+ 
+ username: test
+ password: 123
