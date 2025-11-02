@@ -1,4 +1,4 @@
-# AMS • fitUA
+# AMS - fitUA
 
 Android app for the University of Aveiro gym — built as part of the **Análise e Modelação de Sistemas (AMS)** course.  
 This was my **first Android project**, so the codebase is intentionally simple and focused on learning.
