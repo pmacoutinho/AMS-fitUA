@@ -111,7 +111,7 @@ Pull requests are welcome! If you plan a bigger change, consider opening an issu
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - University of Aveiro & AMS course context
 - Android Developers documentation
